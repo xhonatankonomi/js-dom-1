@@ -1,0 +1,1 @@
+const lampImg = document.getElementById("lamp-image");
