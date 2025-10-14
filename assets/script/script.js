@@ -1,5 +1,5 @@
 const lampImg = document.getElementById("lamp-image");
-const btnClick = document.getElementById("click")
+const imgPath = './assets/img/yellow_lamp.png'
 
 function changeImage () {
     
